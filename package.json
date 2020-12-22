@@ -1,7 +1,11 @@
 {
 	"author": "Christopher Muller",
 	"description": "Learning Project",
-	"keywords": ["freecodecamp", "Learning", "Education"],
+	"keywords": [
+		"freecodecamp",
+		"Learning",
+		"Education"
+	],
 	"license": "MIT",
 	"version": "1.0.0",
 	"name": "fcc-learn-npm-package-json",
